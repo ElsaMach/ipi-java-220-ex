@@ -167,5 +167,4 @@ public abstract class Employe {
     public abstract Double getPrimeAnnuelle();
 
 
-
 }
