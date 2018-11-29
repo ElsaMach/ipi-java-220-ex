@@ -13,7 +13,7 @@ public abstract class Employe {
     private String prenom;
     private String matricule;
     private LocalDate dateEmbauche;
-    private Double salaire;
+    private Double salaire = Entreprise.SALAIRE_BASE;
 
     /**
      * Getter de nom
